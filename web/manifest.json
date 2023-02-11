@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "version": "0.0.1",
+    "version": "0.0.3",
     "name": "passy_extension",
-    "description": "A new Flutter project.",
+    "description": "I don't know why this isn't working.",
     "browser_action": {
       "default_popup": "index.html",
       "default_icon": {
@@ -12,4 +12,4 @@
         "128": "icons/icon-192.png"
       }
     }
-  }
+}
