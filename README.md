@@ -4,6 +4,6 @@ This will (eventually) be an extension that integrates with [Passy](https://gith
 This will be achieved by making use of an URL scheme to handle communication between client and server, abstracting away all the work with handling passwords to the server.
 
 ## Goals
-Get some custom UI to display
-Working autofill
-Integration with [Passy](https://github.com/GlitterWare/Passy)
+Get some custom UI to display  
+Working autofill  
+Integration with [Passy](https://github.com/GlitterWare/Passy)  
