@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "passy_extension",
+    "description": "A new Flutter project.",
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "icons/icon-192.png",
+        "32": "icons/icon-192.png",
+        "48": "icons/icon-192.png",
+        "128": "icons/icon-192.png"
+      }
+    }
+  }
